@@ -4,5 +4,19 @@ I am a first-year M.S. student in Computer Science at <a href="https://illinois.
 
 My current research interests include Sequence Labeling and Multi-task Learning.
 
-#Academic Experience
+# Academic Experience
+## University of Illinois Urbana-Champaign
+- MS in Computer Science, 2019-2021
+- Advisor: Heng Ji
+## Shanghai Jiao Tong University
+- BS in Information Security, 2015-2019
+- Advisor: Cunqing Hua
+
+
+# Publications
+## 2019
+- Multiple Character Embeddings for Chinese Word Segmentation
+Jianing Zhou, Jingkang Wang, Gongshen Liu in **ACL-SRW 2019**
+
+
 
