@@ -7,7 +7,7 @@ My current research interests include Sequence Labeling and Multi-task Learning.
 # Academic Experience
 ## University of Illinois Urbana-Champaign
 - MS in Computer Science, 2019-2021
-- Advisor: Heng Ji
+- Advisor:
 
 ## Shanghai Jiao Tong University
 - BS in Information Security, 2015-2019
