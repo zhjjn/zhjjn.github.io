@@ -2,12 +2,12 @@ Greetings! My name is Jianing Zhou.
 
 I am a first-year M.S. student in Computer Science at <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>. Before joining UIUC, I got my bachelor’s degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2019.
 
-My current research interests include Sequence Labeling and Multi-task Learning.
+My current research interests include Sequence Labeling, natural language generation and machine learning.
 
 # Academic Experience
 ## University of Illinois Urbana-Champaign
 - MS in Computer Science, 2019-2021
-- Advisor:
+- Advisor: Pramod Viswanath
 
 ## Shanghai Jiao Tong University
 - BS in Information Security, 2015-2019
