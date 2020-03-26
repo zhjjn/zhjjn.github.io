@@ -17,7 +17,7 @@ My current research interests include Sequence Labeling, natural language genera
 # Publications
 ## 2019
 - Multiple Character Embeddings for Chinese Word Segmentation
-Jianing Zhou, Jingkang Wang, Gongshen Liu in **ACL-SRW 2019**
+Jianing Zhou, Jingkang Wang, Gongshen Liu in **ACL 2019**
 
 
 
